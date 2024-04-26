@@ -18,6 +18,4 @@ Creating a movie recommendation system leveraging machine learning involves seve
 
 6. **Evaluation**: Assess the performance of the recommendation system using metrics like precision, recall, and F1-score. Consider user feedback and satisfaction for real-world evaluation.
 
-7. **Deployment**: Deploy the recommendation system in a user-friendly interface where users can input their preferences and receive personalized movie recommendations.
-
 By combining techniques such as TF-IDF for feature representation, vectorizers for text transformation, and difflib/get_close_matches for textual similarity, you can build a powerful movie recommendation system that caters to users' tastes and preferences.
